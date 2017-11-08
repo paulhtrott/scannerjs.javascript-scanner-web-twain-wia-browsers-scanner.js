@@ -1,6 +1,6 @@
 {
   "name": "scanner.js",
-  "version": "1.0.0",
+  "version": "2.10.0",
   "description": "ScannerJS: JavaScript web scan JPG PDF images from TWAIN WIA scanners in browser (Chrome, Edge, Firefox or IE)",
   "homepage": "http://asprise.com/document-scan-upload-image-browser/?scannerjs-scanner.js",
   "main": "dist/scanner.js",
